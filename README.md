@@ -1,0 +1,2 @@
+# StockWise
+Online intvtory mangement 
